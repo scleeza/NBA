@@ -6,4 +6,4 @@ jupyter notebooks of training model to predict next NBA MVP player
 
 - [Model Training](https://github.com/scleeza/NBA/blob/main/mvp_model.ipynb)
 
-- ![](https://github.com/scleeza/NBA/blob/main/prediction.png)
+![](https://github.com/scleeza/NBA/blob/main/prediction.png)
